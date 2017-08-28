@@ -1,4 +1,0 @@
-V 0.1.5
-
-Changes:
-- chnged the attachment method to a "twist and lock" mechanism
