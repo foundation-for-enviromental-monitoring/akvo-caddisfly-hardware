@@ -1,0 +1,10 @@
+Description:
+Optimized-Assembly Branch is a branch for design revisions that are major 
+and cannot be incorporated into the current production mold tools. These are 
+preparations for when a new mold tool can be procured.
+
+Changes:
+- Simplified design for easier assembly.
+- One large barrel_lower_o in which the cuvette_ slides in first.
+- Then the barrel_upper_o (in which mesh has been affixed) slides into barrel_lower_o and mates with cuvette_o
+- Cuvette has minimal changes. lid and mesh are unchanged.
