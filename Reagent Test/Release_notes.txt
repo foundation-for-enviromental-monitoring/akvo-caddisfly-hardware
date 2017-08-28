@@ -1,8 +1,9 @@
 Description:
-The 8th (major) iteration of the phone-attachment version of Caddisfly. 
+The 9th (major) iteration of the phone-attachment version of Caddisfly. 
 
 Changes:
-- Increased diameter of the light chamber, to allow compatability with more phone models
-- Redesigned some components to optimise for assembly
-- Changed phone attachment mechanism to a "twist and lock"
-- Added a lip on the lid to make dilution using the cartridge more accurate
+- Added a raised inner chamber to allow for overflow removal
+- Added a larger raised portion on the top of cap to aid in uniform 
+water removal from the main testing chamber for adding drops of reagent
+- Added asymmetries in the mesh and barrel_upper to fix the angular 
+position of the mesh in every assembled unit.
